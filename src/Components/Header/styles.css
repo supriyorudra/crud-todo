@@ -1,0 +1,16 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 1.5rem;
+    background-color: #babad4;
+    box-shadow: 0 0 10px 0 #3a3a3a;
+}
+.navbar a{
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    color: #3a3a3a;
+    text-decoration: none;
+}
